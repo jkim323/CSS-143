@@ -1,2 +1,2 @@
 # CSS-143
-Exensive Knowledge of Java
+Extensive Knowledge of Java
